@@ -1211,3 +1211,13 @@
 9776	10093	7477207123633367	C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EXE01/build/.bin_timestamp	25ebf23cbd7b0590
 10093	10194	0	esp-idf/esptool_py/CMakeFiles/app_check_size	1cb3103d40115ee4
 10093	10194	0	C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EXE01/build/esp-idf/esptool_py/CMakeFiles/app_check_size	1cb3103d40115ee4
+48	169	0	esp-idf/esptool_py/CMakeFiles/app_check_size	1cb3103d40115ee4
+48	169	0	C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EXE01/build/esp-idf/esptool_py/CMakeFiles/app_check_size	1cb3103d40115ee4
+59	242	7469357013175052	bootloader-prefix/src/bootloader-stamp/bootloader-build	1e8d4786586a21a3
+59	242	7469357013175052	bootloader/bootloader.elf	1e8d4786586a21a3
+59	242	7469357013175052	bootloader/bootloader.bin	1e8d4786586a21a3
+59	242	7469357013175052	bootloader/bootloader.map	1e8d4786586a21a3
+59	242	7469357013175052	C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EXE01/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	1e8d4786586a21a3
+59	242	7469357013175052	C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EXE01/build/bootloader/bootloader.elf	1e8d4786586a21a3
+59	242	7469357013175052	C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EXE01/build/bootloader/bootloader.bin	1e8d4786586a21a3
+59	242	7469357013175052	C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EXE01/build/bootloader/bootloader.map	1e8d4786586a21a3
