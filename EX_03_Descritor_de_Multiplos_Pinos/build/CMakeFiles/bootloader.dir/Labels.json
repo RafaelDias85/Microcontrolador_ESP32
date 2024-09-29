@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/CMakeFiles/bootloader"
+			"file" : "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/CMakeFiles/bootloader.rule"
+			"file" : "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 

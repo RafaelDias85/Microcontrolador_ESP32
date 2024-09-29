@@ -1,4 +1,4 @@
-/* * Data converted from C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

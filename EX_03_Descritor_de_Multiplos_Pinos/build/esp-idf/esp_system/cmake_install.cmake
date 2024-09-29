@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/esp-idf/esp_system/port/cmake_install.cmake")
+  include("C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/esp-idf/esp_system/port/cmake_install.cmake")
 endif()
 

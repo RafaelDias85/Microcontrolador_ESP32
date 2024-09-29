@@ -5,18 +5,18 @@ cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
   "C:/esp-idf-config/v5.1.4/esp-idf/components/bootloader/subproject"
-  "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader"
-  "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader-prefix"
-  "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader-prefix/tmp"
-  "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader-prefix/src/bootloader-stamp"
-  "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader-prefix/src"
-  "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader-prefix/src/bootloader-stamp"
+  "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader"
+  "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader-prefix"
+  "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader-prefix/tmp"
+  "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader-prefix/src/bootloader-stamp"
+  "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader-prefix/src"
+  "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader-prefix/src/bootloader-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
 endif()

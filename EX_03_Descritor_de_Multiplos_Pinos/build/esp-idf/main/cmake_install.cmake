@@ -1,4 +1,4 @@
-# Install script for directory: C:/RafaelDias/Microcontroladores/LinguagemC_focoMicrocontroladores/Projetos_C_SDK_IDF/EX03/main
+# Install script for directory: C:/RafaelDias/Microcontroladores/C_SDK_IDF/SDK_IDF/EX_03_Descritor_de_Multiplos_Pinos/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
